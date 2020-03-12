@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/wigsters52/Node-JS-command-Line-Tools/issues"
   },
-  "homepage": "https://github.com/wigsters52/Node-JS-command-Line-Tools#readme"
+  "homepage": "https://github.com/wigsters52/Node-JS-command-Line-Tools#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
